@@ -13,4 +13,4 @@
 Phik, Shap, Pandas, Matplotlib, Sklearn, Scipy, Pipeline, roc_auc_score, DecisionTreeClassifier, KNeighborsClassifier, SVC, LogisticRegression, GridSearchCV, RandomizedSearchCV
 
 ## Статус проекта 
-**Завершен**
+**Завершен.**
